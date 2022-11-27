@@ -1,0 +1,13 @@
+.container {
+    padding: 10px 80px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.img__shop {
+    padding-top: 15px;
+    width: 40px;
+}
